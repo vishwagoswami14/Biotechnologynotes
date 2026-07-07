@@ -4,7 +4,7 @@ Welcome to my biotechnology notes and learning resources.
 # About
 This repository contains my notes, practival exercise and project as i learn in biotechnology and bioinformatics.
 
-# tpoics
+# topics
 Cell biology
 Molecular biology
 Genetics
